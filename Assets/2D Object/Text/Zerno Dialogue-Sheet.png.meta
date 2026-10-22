@@ -1,0 +1,2905 @@
+fileFormatVersion: 2
+guid: 183fde4ffc17aa4438ffc297d7d25a3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2683187908861520134
+    second: Zerno Dialogue-Sheet_0
+  - first:
+      213: 8448011029960113166
+    second: Zerno Dialogue-Sheet_1
+  - first:
+      213: -4439909502561260018
+    second: Zerno Dialogue-Sheet_2
+  - first:
+      213: 6808819916151368294
+    second: Zerno Dialogue-Sheet_3
+  - first:
+      213: 2952668147852550020
+    second: Zerno Dialogue-Sheet_4
+  - first:
+      213: 6266569567136090534
+    second: Zerno Dialogue-Sheet_5
+  - first:
+      213: -5035942901079740708
+    second: Zerno Dialogue-Sheet_6
+  - first:
+      213: -5248233976247359728
+    second: Zerno Dialogue-Sheet_7
+  - first:
+      213: 9032854081756486199
+    second: Zerno Dialogue-Sheet_8
+  - first:
+      213: 1158616807699936797
+    second: Zerno Dialogue-Sheet_9
+  - first:
+      213: 8322656587682011895
+    second: Zerno Dialogue-Sheet_10
+  - first:
+      213: 1646658608299902545
+    second: Zerno Dialogue-Sheet_11
+  - first:
+      213: -182848678935784812
+    second: Zerno Dialogue-Sheet_12
+  - first:
+      213: 5079333600184296196
+    second: Zerno Dialogue-Sheet_13
+  - first:
+      213: -2217835009200665086
+    second: Zerno Dialogue-Sheet_14
+  - first:
+      213: 1929404389063113517
+    second: Zerno Dialogue-Sheet_15
+  - first:
+      213: 1459418041452745391
+    second: Zerno Dialogue-Sheet_16
+  - first:
+      213: -4397458048853930515
+    second: Zerno Dialogue-Sheet_17
+  - first:
+      213: 5346399507085190066
+    second: Zerno Dialogue-Sheet_18
+  - first:
+      213: 2301450873411164444
+    second: Zerno Dialogue-Sheet_19
+  - first:
+      213: -3259433423916118664
+    second: Zerno Dialogue-Sheet_20
+  - first:
+      213: 1312906771531800637
+    second: Zerno Dialogue-Sheet_21
+  - first:
+      213: 8467203871586215408
+    second: Zerno Dialogue-Sheet_22
+  - first:
+      213: 3344314118189821179
+    second: Zerno Dialogue-Sheet_23
+  - first:
+      213: -1010470456385599406
+    second: Zerno Dialogue-Sheet_24
+  - first:
+      213: 5180329482989063712
+    second: Zerno Dialogue-Sheet_25
+  - first:
+      213: -6020822586361361855
+    second: Zerno Dialogue-Sheet_26
+  - first:
+      213: 7813497595893756216
+    second: Zerno Dialogue-Sheet_27
+  - first:
+      213: -960551684361736587
+    second: Zerno Dialogue-Sheet_28
+  - first:
+      213: -1653608161438082910
+    second: Zerno Dialogue-Sheet_29
+  - first:
+      213: -4558569534032969
+    second: Zerno Dialogue-Sheet_30
+  - first:
+      213: -8130707268893473393
+    second: Zerno Dialogue-Sheet_31
+  - first:
+      213: 8250177455711413126
+    second: Zerno Dialogue-Sheet_32
+  - first:
+      213: -7700722048986092876
+    second: Zerno Dialogue-Sheet_33
+  - first:
+      213: -5757775974905579625
+    second: Zerno Dialogue-Sheet_34
+  - first:
+      213: 6262137106596165403
+    second: Zerno Dialogue-Sheet_35
+  - first:
+      213: 5261931511842269703
+    second: Zerno Dialogue-Sheet_36
+  - first:
+      213: -6492021197642807472
+    second: Zerno Dialogue-Sheet_37
+  - first:
+      213: 4049473629578703995
+    second: Zerno Dialogue-Sheet_38
+  - first:
+      213: 5526488729058131799
+    second: Zerno Dialogue-Sheet_39
+  - first:
+      213: 8730834236468432637
+    second: Zerno Dialogue-Sheet_40
+  - first:
+      213: 4413420645637300534
+    second: Zerno Dialogue-Sheet_41
+  - first:
+      213: 1362371879516732850
+    second: Zerno Dialogue-Sheet_42
+  - first:
+      213: 6259025248431847256
+    second: Zerno Dialogue-Sheet_43
+  - first:
+      213: 6540848736384294021
+    second: Zerno Dialogue-Sheet_44
+  - first:
+      213: -6600954241570189396
+    second: Zerno Dialogue-Sheet_45
+  - first:
+      213: 2992841183849172944
+    second: Zerno Dialogue-Sheet_46
+  - first:
+      213: 8592473397970023750
+    second: Zerno Dialogue-Sheet_47
+  - first:
+      213: 4871566253720938294
+    second: Zerno Dialogue-Sheet_48
+  - first:
+      213: 8361705226225979494
+    second: Zerno Dialogue-Sheet_49
+  - first:
+      213: 4215380442082054665
+    second: Zerno Dialogue-Sheet_50
+  - first:
+      213: 5040956568599016192
+    second: Zerno Dialogue-Sheet_51
+  - first:
+      213: -4149717489937921375
+    second: Zerno Dialogue-Sheet_52
+  - first:
+      213: -3026474976606450169
+    second: Zerno Dialogue-Sheet_53
+  - first:
+      213: 552694178873278126
+    second: Zerno Dialogue-Sheet_54
+  - first:
+      213: -5977034311923873075
+    second: Zerno Dialogue-Sheet_55
+  - first:
+      213: -7969316206830474853
+    second: Zerno Dialogue-Sheet_56
+  - first:
+      213: -4509243059422171195
+    second: Zerno Dialogue-Sheet_57
+  - first:
+      213: 9122508967653766596
+    second: Zerno Dialogue-Sheet_58
+  - first:
+      213: -1984963678702969858
+    second: Zerno Dialogue-Sheet_59
+  - first:
+      213: 2813617510121540068
+    second: Zerno Dialogue-Sheet_60
+  - first:
+      213: -4806518988365385722
+    second: Zerno Dialogue-Sheet_61
+  - first:
+      213: -1777544477860394522
+    second: Zerno Dialogue-Sheet_62
+  - first:
+      213: -5856842724091485604
+    second: Zerno Dialogue-Sheet_63
+  - first:
+      213: -2718091593144192042
+    second: Zerno Dialogue-Sheet_64
+  - first:
+      213: -8707221663337847803
+    second: Zerno Dialogue-Sheet_65
+  - first:
+      213: 8895371556088007102
+    second: Zerno Dialogue-Sheet_66
+  - first:
+      213: 8017217748824663662
+    second: Zerno Dialogue-Sheet_67
+  - first:
+      213: -5779770687363541686
+    second: Zerno Dialogue-Sheet_68
+  - first:
+      213: -4697609531733839981
+    second: Zerno Dialogue-Sheet_69
+  - first:
+      213: 7147713409383827168
+    second: Zerno Dialogue-Sheet_70
+  - first:
+      213: -6251089272334663786
+    second: Zerno Dialogue-Sheet_71
+  - first:
+      213: -6752513674037337867
+    second: Zerno Dialogue-Sheet_72
+  - first:
+      213: 2217553262937176250
+    second: Zerno Dialogue-Sheet_73
+  - first:
+      213: 4019233232530364100
+    second: Zerno Dialogue-Sheet_74
+  - first:
+      213: -3112146190159676542
+    second: Zerno Dialogue-Sheet_75
+  - first:
+      213: 1742247176405187019
+    second: Zerno Dialogue-Sheet_76
+  - first:
+      213: -5026101037657557727
+    second: Zerno Dialogue-Sheet_77
+  - first:
+      213: 39784034179105183
+    second: Zerno Dialogue-Sheet_78
+  - first:
+      213: 489068587044909216
+    second: Zerno Dialogue-Sheet_79
+  - first:
+      213: -51164412979379924
+    second: Zerno Dialogue-Sheet_80
+  - first:
+      213: 793519398306988872
+    second: Zerno Dialogue-Sheet_81
+  - first:
+      213: -8038256143235252039
+    second: Zerno Dialogue-Sheet_82
+  - first:
+      213: -1554576584320663851
+    second: Zerno Dialogue-Sheet_83
+  - first:
+      213: 8934698153559065375
+    second: Zerno Dialogue-Sheet_84
+  - first:
+      213: -4807880220988604412
+    second: Zerno Dialogue-Sheet_85
+  - first:
+      213: -837229453662941798
+    second: Zerno Dialogue-Sheet_86
+  - first:
+      213: -8867930296882830282
+    second: Zerno Dialogue-Sheet_87
+  - first:
+      213: -7122085438226260895
+    second: Zerno Dialogue-Sheet_88
+  - first:
+      213: -6510270264586107103
+    second: Zerno Dialogue-Sheet_89
+  - first:
+      213: 263512930271758094
+    second: Zerno Dialogue-Sheet_90
+  - first:
+      213: 1733101796353452653
+    second: Zerno Dialogue-Sheet_91
+  - first:
+      213: -3436804146470943042
+    second: Zerno Dialogue-Sheet_92
+  - first:
+      213: 4063839397331550570
+    second: Zerno Dialogue-Sheet_93
+  - first:
+      213: -8044885442455075984
+    second: Zerno Dialogue-Sheet_94
+  - first:
+      213: 1531574359105299962
+    second: Zerno Dialogue-Sheet_95
+  - first:
+      213: 6931257805419781765
+    second: Zerno Dialogue-Sheet_96
+  - first:
+      213: -7520583452960112052
+    second: Zerno Dialogue-Sheet_97
+  - first:
+      213: 8885923282198523999
+    second: Zerno Dialogue-Sheet_98
+  - first:
+      213: 4996304098543457137
+    second: Zerno Dialogue-Sheet_99
+  - first:
+      213: -6103265909626735350
+    second: Zerno Dialogue-Sheet_100
+  - first:
+      213: 8171775531335523632
+    second: Zerno Dialogue-Sheet_101
+  - first:
+      213: -5344097615988011039
+    second: Zerno Dialogue-Sheet_102
+  - first:
+      213: 8968052580755018035
+    second: Zerno Dialogue-Sheet_103
+  - first:
+      213: -94806142700054460
+    second: Zerno Dialogue-Sheet_104
+  - first:
+      213: 7483940378699896910
+    second: Zerno Dialogue-Sheet_105
+  - first:
+      213: -5553045894588559304
+    second: Zerno Dialogue-Sheet_106
+  - first:
+      213: -5495625595063792419
+    second: Zerno Dialogue-Sheet_107
+  - first:
+      213: 1283526896286275833
+    second: Zerno Dialogue-Sheet_108
+  - first:
+      213: 7848180884607314032
+    second: Zerno Dialogue-Sheet_109
+  - first:
+      213: 293249749059232840
+    second: Zerno Dialogue-Sheet_110
+  - first:
+      213: 7186937134990171099
+    second: Zerno Dialogue-Sheet_111
+  - first:
+      213: 1909441572338243664
+    second: Zerno Dialogue-Sheet_112
+  - first:
+      213: -5839399012452749438
+    second: Zerno Dialogue-Sheet_113
+  - first:
+      213: 3004570713549126630
+    second: Zerno Dialogue-Sheet_114
+  - first:
+      213: -1301139524488914697
+    second: Zerno Dialogue-Sheet_115
+  - first:
+      213: 4970408637453254969
+    second: Zerno Dialogue-Sheet_116
+  - first:
+      213: 879002627611389593
+    second: Zerno Dialogue-Sheet_117
+  - first:
+      213: 8144074389102749231
+    second: Zerno Dialogue-Sheet_118
+  - first:
+      213: -804102265660882520
+    second: Zerno Dialogue-Sheet_119
+  - first:
+      213: 6363263428189384811
+    second: Zerno Dialogue-Sheet_120
+  - first:
+      213: -5417867379529202754
+    second: Zerno Dialogue-Sheet_121
+  - first:
+      213: 6919783667091900203
+    second: Zerno Dialogue-Sheet_122
+  - first:
+      213: -4037227607045565526
+    second: Zerno Dialogue-Sheet_123
+  - first:
+      213: -4894071403220470736
+    second: Zerno Dialogue-Sheet_124
+  - first:
+      213: 6333838186212798335
+    second: Zerno Dialogue-Sheet_125
+  - first:
+      213: -4038883260723773107
+    second: Zerno Dialogue-Sheet_126
+  - first:
+      213: 2309466449584372251
+    second: Zerno Dialogue-Sheet_127
+  - first:
+      213: 6236779274921080483
+    second: Zerno Dialogue-Sheet_128
+  - first:
+      213: 8590879585330385641
+    second: Zerno Dialogue-Sheet_129
+  - first:
+      213: -5395302338578329005
+    second: Zerno Dialogue-Sheet_130
+  - first:
+      213: -5601013600620066028
+    second: Zerno Dialogue-Sheet_131
+  - first:
+      213: 8605423233177215549
+    second: Zerno Dialogue-Sheet_132
+  - first:
+      213: -4956173884089502143
+    second: Zerno Dialogue-Sheet_133
+  - first:
+      213: -9089511075207773617
+    second: Zerno Dialogue-Sheet_134
+  - first:
+      213: -5734876725964484328
+    second: Zerno Dialogue-Sheet_135
+  - first:
+      213: 526874768548239638
+    second: Zerno Dialogue-Sheet_136
+  - first:
+      213: 7957873555816612834
+    second: Zerno Dialogue-Sheet_137
+  - first:
+      213: -280120285004893209
+    second: Zerno Dialogue-Sheet_138
+  - first:
+      213: -1287987129378507633
+    second: Zerno Dialogue-Sheet_139
+  - first:
+      213: -4895643022576150288
+    second: Zerno Dialogue-Sheet_140
+  - first:
+      213: -3838866503249953022
+    second: Zerno Dialogue-Sheet_141
+  - first:
+      213: -3482817409493972885
+    second: Zerno Dialogue-Sheet_142
+  - first:
+      213: 8021458582353686401
+    second: Zerno Dialogue-Sheet_143
+  - first:
+      213: -6274475702332982330
+    second: Zerno Dialogue-Sheet_144
+  - first:
+      213: 1188072518181481058
+    second: Zerno Dialogue-Sheet_145
+  - first:
+      213: 2619277338994922114
+    second: Zerno Dialogue-Sheet_146
+  - first:
+      213: -9128958395600013214
+    second: Zerno Dialogue-Sheet_147
+  - first:
+      213: 1480074903044324136
+    second: Zerno Dialogue-Sheet_148
+  - first:
+      213: 2455901693850381670
+    second: Zerno Dialogue-Sheet_149
+  - first:
+      213: 563355964055917234
+    second: Zerno Dialogue-Sheet_150
+  - first:
+      213: 5712955003523824040
+    second: Zerno Dialogue-Sheet_151
+  - first:
+      213: -3515607160187634069
+    second: Zerno Dialogue-Sheet_152
+  - first:
+      213: -1263577787082012954
+    second: Zerno Dialogue-Sheet_153
+  - first:
+      213: -9212687571281936612
+    second: Zerno Dialogue-Sheet_154
+  - first:
+      213: 6160672371534977907
+    second: Zerno Dialogue-Sheet_155
+  - first:
+      213: -3673123935935929211
+    second: Zerno Dialogue-Sheet_156
+  - first:
+      213: -8880658344877024174
+    second: Zerno Dialogue-Sheet_157
+  - first:
+      213: -1891790078050804094
+    second: Zerno Dialogue-Sheet_158
+  - first:
+      213: 7033456323485239268
+    second: Zerno Dialogue-Sheet_159
+  - first:
+      213: 7621039371046513665
+    second: Zerno Dialogue-Sheet_160
+  - first:
+      213: -3544896384799265101
+    second: Zerno Dialogue-Sheet_161
+  - first:
+      213: -6296354369975642050
+    second: Zerno Dialogue-Sheet_162
+  - first:
+      213: -4072268374128260022
+    second: Zerno Dialogue-Sheet_163
+  - first:
+      213: 7340021056254151502
+    second: Zerno Dialogue-Sheet_164
+  - first:
+      213: 5397800258151700620
+    second: Zerno Dialogue-Sheet_165
+  - first:
+      213: 453248096936369779
+    second: Zerno Dialogue-Sheet_166
+  - first:
+      213: 3976265679007359942
+    second: Zerno Dialogue-Sheet_167
+  - first:
+      213: 4922619481460394376
+    second: Zerno Dialogue-Sheet_168
+  - first:
+      213: -3259717574388290772
+    second: Zerno Dialogue-Sheet_169
+  - first:
+      213: -3464590365526791668
+    second: Zerno Dialogue-Sheet_170
+  - first:
+      213: 1920134617348109056
+    second: Zerno Dialogue-Sheet_171
+  - first:
+      213: -8700876886138693005
+    second: Zerno Dialogue-Sheet_172
+  - first:
+      213: -767288025485628752
+    second: Zerno Dialogue-Sheet_173
+  - first:
+      213: 761000482861242503
+    second: Zerno Dialogue-Sheet_174
+  - first:
+      213: -6627461377934498573
+    second: Zerno Dialogue-Sheet_175
+  - first:
+      213: -2382602140211344698
+    second: Zerno Dialogue-Sheet_176
+  - first:
+      213: -1114929277926593823
+    second: Zerno Dialogue-Sheet_177
+  - first:
+      213: -8302640897708660131
+    second: Zerno Dialogue-Sheet_178
+  - first:
+      213: -5864010621134762437
+    second: Zerno Dialogue-Sheet_179
+  - first:
+      213: 1532465893359500243
+    second: Zerno Dialogue-Sheet_180
+  - first:
+      213: 6791302730357987120
+    second: Zerno Dialogue-Sheet_181
+  - first:
+      213: -2560979196378872217
+    second: Zerno Dialogue-Sheet_182
+  - first:
+      213: 4516136194970914429
+    second: Zerno Dialogue-Sheet_183
+  - first:
+      213: 6612007922149125128
+    second: Zerno Dialogue-Sheet_184
+  - first:
+      213: -2410685181512359304
+    second: Zerno Dialogue-Sheet_185
+  - first:
+      213: -6439350050057054673
+    second: Zerno Dialogue-Sheet_186
+  - first:
+      213: 6175567266522692261
+    second: Zerno Dialogue-Sheet_187
+  - first:
+      213: 1091139208664949663
+    second: Zerno Dialogue-Sheet_188
+  - first:
+      213: 5135503403628796561
+    second: Zerno Dialogue-Sheet_189
+  - first:
+      213: -8787634296365816080
+    second: Zerno Dialogue-Sheet_190
+  - first:
+      213: -8325652487183944059
+    second: Zerno Dialogue-Sheet_191
+  - first:
+      213: -8615207749515656796
+    second: Zerno Dialogue-Sheet_192
+  - first:
+      213: 8636363921054903938
+    second: Zerno Dialogue-Sheet_193
+  - first:
+      213: -6737116361918118560
+    second: Zerno Dialogue-Sheet_194
+  - first:
+      213: 6055966024749552864
+    second: Zerno Dialogue-Sheet_195
+  - first:
+      213: 6827621655761922973
+    second: Zerno Dialogue-Sheet_196
+  - first:
+      213: 3502871764132163590
+    second: Zerno Dialogue-Sheet_197
+  - first:
+      213: 8848673402285947707
+    second: Zerno Dialogue-Sheet_198
+  - first:
+      213: -3211625201424471525
+    second: Zerno Dialogue-Sheet_199
+  - first:
+      213: 6751978143832632246
+    second: Zerno Dialogue-Sheet_200
+  - first:
+      213: -1966320437064466836
+    second: Zerno Dialogue-Sheet_201
+  - first:
+      213: 3916638218540716146
+    second: Zerno Dialogue-Sheet_202
+  - first:
+      213: -217785381936601264
+    second: Zerno Dialogue-Sheet_203
+  - first:
+      213: 4203646266402637533
+    second: Zerno Dialogue-Sheet_204
+  - first:
+      213: -1596654298945277853
+    second: Zerno Dialogue-Sheet_205
+  - first:
+      213: 6580895986489851861
+    second: Zerno Dialogue-Sheet_206
+  - first:
+      213: -7903411671667130300
+    second: Zerno Dialogue-Sheet_207
+  - first:
+      213: 3243091631401913515
+    second: Zerno Dialogue-Sheet_208
+  - first:
+      213: 111215821291596936
+    second: Zerno Dialogue-Sheet_209
+  - first:
+      213: 203910590301944279
+    second: Zerno Dialogue-Sheet_210
+  - first:
+      213: -6200724031864638999
+    second: Zerno Dialogue-Sheet_211
+  - first:
+      213: -4921621006039057215
+    second: Zerno Dialogue-Sheet_212
+  - first:
+      213: 1199510157298473814
+    second: Zerno Dialogue-Sheet_213
+  - first:
+      213: -868582419719986608
+    second: Zerno Dialogue-Sheet_214
+  - first:
+      213: -6083622732967472295
+    second: Zerno Dialogue-Sheet_215
+  - first:
+      213: 7288908210634168078
+    second: Zerno Dialogue-Sheet_216
+  - first:
+      213: -8947084310794672647
+    second: Zerno Dialogue-Sheet_217
+  - first:
+      213: 2440560499518979608
+    second: Zerno Dialogue-Sheet_218
+  - first:
+      213: -8436921205112527611
+    second: Zerno Dialogue-Sheet_219
+  - first:
+      213: -1388054972163334375
+    second: Zerno Dialogue-Sheet_220
+  - first:
+      213: -4241468293049184943
+    second: Zerno Dialogue-Sheet_221
+  - first:
+      213: 3796717328861396232
+    second: Zerno Dialogue-Sheet_222
+  - first:
+      213: -5134705884861344295
+    second: Zerno Dialogue-Sheet_223
+  - first:
+      213: 7236068004979678538
+    second: Zerno Dialogue-Sheet_224
+  - first:
+      213: -3028177266670184195
+    second: Zerno Dialogue-Sheet_225
+  - first:
+      213: 816348504875737280
+    second: Zerno Dialogue-Sheet_226
+  - first:
+      213: -6012358681617720040
+    second: Zerno Dialogue-Sheet_227
+  - first:
+      213: -9131075037266440677
+    second: Zerno Dialogue-Sheet_228
+  - first:
+      213: 8888442263609880333
+    second: Zerno Dialogue-Sheet_229
+  - first:
+      213: 6241238475784185150
+    second: Zerno Dialogue-Sheet_230
+  - first:
+      213: -6052559466006638571
+    second: Zerno Dialogue-Sheet_231
+  - first:
+      213: -357748070312499386
+    second: Zerno Dialogue-Sheet_232
+  - first:
+      213: -4217931781682767195
+    second: Zerno Dialogue-Sheet_233
+  - first:
+      213: -1967145597883146135
+    second: Zerno Dialogue-Sheet_234
+  - first:
+      213: 4630866622812008046
+    second: Zerno Dialogue-Sheet_235
+  - first:
+      213: -4506972163352124724
+    second: Zerno Dialogue-Sheet_236
+  - first:
+      213: -5537654565082466301
+    second: Zerno Dialogue-Sheet_237
+  - first:
+      213: -2384881931365485688
+    second: Zerno Dialogue-Sheet_238
+  - first:
+      213: 3413883958078100461
+    second: Zerno Dialogue-Sheet_239
+  - first:
+      213: 7319579156817978622
+    second: Zerno Dialogue-Sheet_240
+  - first:
+      213: 6992410750487205809
+    second: Zerno Dialogue-Sheet_241
+  - first:
+      213: 1009000783381054049
+    second: Zerno Dialogue-Sheet_242
+  - first:
+      213: 4686421876110537012
+    second: Zerno Dialogue-Sheet_243
+  - first:
+      213: 8881157249846286452
+    second: Zerno Dialogue-Sheet_244
+  - first:
+      213: 1460497315757458191
+    second: Zerno Dialogue-Sheet_245
+  - first:
+      213: -9212978532161022659
+    second: Zerno Dialogue-Sheet_246
+  - first:
+      213: -7884074633430023921
+    second: Zerno Dialogue-Sheet_247
+  - first:
+      213: 9055392066799913040
+    second: Zerno Dialogue-Sheet_248
+  - first:
+      213: 2206936831204210329
+    second: Zerno Dialogue-Sheet_249
+  - first:
+      213: -1957941489554215334
+    second: Zerno Dialogue-Sheet_250
+  - first:
+      213: -782373400107936604
+    second: Zerno Dialogue-Sheet_251
+  - first:
+      213: -5019563724004115143
+    second: Zerno Dialogue-Sheet_252
+  - first:
+      213: 3168403765640040436
+    second: Zerno Dialogue-Sheet_253
+  - first:
+      213: 761303114037214950
+    second: Zerno Dialogue-Sheet_254
+  - first:
+      213: -1349930478635877568
+    second: Zerno Dialogue-Sheet_255
+  - first:
+      213: -8647882443354951167
+    second: Zerno Dialogue-Sheet_256
+  - first:
+      213: -1153496279941665656
+    second: Zerno Dialogue-Sheet_257
+  - first:
+      213: 7592771005488999425
+    second: Zerno Dialogue-Sheet_258
+  - first:
+      213: 473779364996964730
+    second: Zerno Dialogue-Sheet_259
+  - first:
+      213: -2797775721195495687
+    second: Zerno Dialogue-Sheet_260
+  - first:
+      213: -1695640282878735776
+    second: Zerno Dialogue-Sheet_261
+  - first:
+      213: 2438241065629911335
+    second: Zerno Dialogue-Sheet_262
+  - first:
+      213: -7603858748473261541
+    second: Zerno Dialogue-Sheet_263
+  - first:
+      213: 4440442906068845696
+    second: Zerno Dialogue-Sheet_264
+  - first:
+      213: 1708238970730784373
+    second: Zerno Dialogue-Sheet_265
+  - first:
+      213: -6648039442682693420
+    second: Zerno Dialogue-Sheet_266
+  - first:
+      213: 7676231238562270946
+    second: Zerno Dialogue-Sheet_267
+  - first:
+      213: -4614964458907062520
+    second: Zerno Dialogue-Sheet_268
+  - first:
+      213: 6523829007641914194
+    second: Zerno Dialogue-Sheet_269
+  - first:
+      213: 4124205996653233793
+    second: Zerno Dialogue-Sheet_270
+  - first:
+      213: -185631049937685502
+    second: Zerno Dialogue-Sheet_271
+  - first:
+      213: 3525884263097258179
+    second: Zerno Dialogue-Sheet_272
+  - first:
+      213: 4445263274812635887
+    second: Zerno Dialogue-Sheet_273
+  - first:
+      213: -1949637717066936352
+    second: Zerno Dialogue-Sheet_274
+  - first:
+      213: 5855797466991382379
+    second: Zerno Dialogue-Sheet_275
+  - first:
+      213: -3532707276437589636
+    second: Zerno Dialogue-Sheet_276
+  - first:
+      213: 4614007445935494653
+    second: Zerno Dialogue-Sheet_277
+  - first:
+      213: -1456134635282327760
+    second: Zerno Dialogue-Sheet_278
+  - first:
+      213: 5441065763556862850
+    second: Zerno Dialogue-Sheet_279
+  - first:
+      213: 4557386036763876333
+    second: Zerno Dialogue-Sheet_280
+  - first:
+      213: -1609836669663033406
+    second: Zerno Dialogue-Sheet_281
+  - first:
+      213: 5160870019287991437
+    second: Zerno Dialogue-Sheet_282
+  - first:
+      213: 1526903120035381231
+    second: Zerno Dialogue-Sheet_283
+  - first:
+      213: 1191456252081592980
+    second: Zerno Dialogue-Sheet_284
+  - first:
+      213: 2660792695965998159
+    second: Zerno Dialogue-Sheet_285
+  - first:
+      213: 1614923044014457812
+    second: Zerno Dialogue-Sheet_286
+  - first:
+      213: -8771472777937268139
+    second: Zerno Dialogue-Sheet_287
+  - first:
+      213: -5442610736996009683
+    second: Zerno Dialogue-Sheet_288
+  - first:
+      213: -6272543296369689169
+    second: Zerno Dialogue-Sheet_289
+  - first:
+      213: -4112176797288800305
+    second: Zerno Dialogue-Sheet_290
+  - first:
+      213: 3279330691966098791
+    second: Zerno Dialogue-Sheet_291
+  - first:
+      213: -8811678643676926424
+    second: Zerno Dialogue-Sheet_292
+  - first:
+      213: -1008458778961583745
+    second: Zerno Dialogue-Sheet_293
+  - first:
+      213: -8335794218953953910
+    second: Zerno Dialogue-Sheet_294
+  - first:
+      213: 2526022869767583048
+    second: Zerno Dialogue-Sheet_295
+  - first:
+      213: -2932930605264506719
+    second: Zerno Dialogue-Sheet_296
+  - first:
+      213: -2507572611968927605
+    second: Zerno Dialogue-Sheet_297
+  - first:
+      213: 6605355025452905296
+    second: Zerno Dialogue-Sheet_298
+  - first:
+      213: -4851146043365117223
+    second: Zerno Dialogue-Sheet_299
+  - first:
+      213: -2560601613515290927
+    second: Zerno Dialogue-Sheet_300
+  - first:
+      213: -480666422032537631
+    second: Zerno Dialogue-Sheet_301
+  - first:
+      213: -2097989636361520570
+    second: Zerno Dialogue-Sheet_302
+  - first:
+      213: -7919974203468511968
+    second: Zerno Dialogue-Sheet_303
+  - first:
+      213: -970631491330767595
+    second: Zerno Dialogue-Sheet_304
+  - first:
+      213: 1205681342679882268
+    second: Zerno Dialogue-Sheet_305
+  - first:
+      213: 2142142401517211382
+    second: Zerno Dialogue-Sheet_306
+  - first:
+      213: -6927822626402347289
+    second: Zerno Dialogue-Sheet_307
+  - first:
+      213: 8048922456087753905
+    second: Zerno Dialogue-Sheet_308
+  - first:
+      213: 5791167962495009869
+    second: Zerno Dialogue-Sheet_309
+  - first:
+      213: -4193456250600879289
+    second: Zerno Dialogue-Sheet_310
+  - first:
+      213: 3653334312506517991
+    second: Zerno Dialogue-Sheet_311
+  - first:
+      213: 4939256698241597544
+    second: Zerno Dialogue-Sheet_312
+  - first:
+      213: 1890124421386978374
+    second: Zerno Dialogue-Sheet_313
+  - first:
+      213: 3039834991661046115
+    second: Zerno Dialogue-Sheet_314
+  - first:
+      213: -4062310433277054789
+    second: Zerno Dialogue-Sheet_315
+  - first:
+      213: -7708117650903159047
+    second: Zerno Dialogue-Sheet_316
+  - first:
+      213: 631080630719688085
+    second: Zerno Dialogue-Sheet_317
+  - first:
+      213: -8774191624235637825
+    second: Zerno Dialogue-Sheet_318
+  - first:
+      213: -608852124176446935
+    second: Zerno Dialogue-Sheet_319
+  - first:
+      213: 2042459017201199189
+    second: Zerno Dialogue-Sheet_320
+  - first:
+      213: 3005217684699851614
+    second: Zerno Dialogue-Sheet_321
+  - first:
+      213: 7504556201417997636
+    second: Zerno Dialogue-Sheet_322
+  - first:
+      213: 496241224057897841
+    second: Zerno Dialogue-Sheet_323
+  - first:
+      213: 2016418305550125543
+    second: Zerno Dialogue-Sheet_324
+  - first:
+      213: -5427766211315895571
+    second: Zerno Dialogue-Sheet_325
+  - first:
+      213: 2727663310105438627
+    second: Zerno Dialogue-Sheet_326
+  - first:
+      213: -3839127961447191046
+    second: Zerno Dialogue-Sheet_327
+  - first:
+      213: -3457734640751923200
+    second: Zerno Dialogue-Sheet_328
+  - first:
+      213: 8153023144176715788
+    second: Zerno Dialogue-Sheet_329
+  - first:
+      213: -232674131334771247
+    second: Zerno Dialogue-Sheet_330
+  - first:
+      213: 9084412063054001850
+    second: Zerno Dialogue-Sheet_331
+  - first:
+      213: 6986992177594316381
+    second: Zerno Dialogue-Sheet_332
+  - first:
+      213: -2856922264553283321
+    second: Zerno Dialogue-Sheet_333
+  - first:
+      213: -4190651698424287978
+    second: Zerno Dialogue-Sheet_334
+  - first:
+      213: 2481335720315687829
+    second: Zerno Dialogue-Sheet_335
+  - first:
+      213: 8109452408677200694
+    second: Zerno Dialogue-Sheet_336
+  - first:
+      213: 978319113449041072
+    second: Zerno Dialogue-Sheet_337
+  - first:
+      213: 1743259981600082402
+    second: Zerno Dialogue-Sheet_338
+  - first:
+      213: -7772610201250366034
+    second: Zerno Dialogue-Sheet_339
+  - first:
+      213: -8806301901895301931
+    second: Zerno Dialogue-Sheet_340
+  - first:
+      213: -8416885101901503196
+    second: Zerno Dialogue-Sheet_341
+  - first:
+      213: -6554194102669577969
+    second: Zerno Dialogue-Sheet_342
+  - first:
+      213: -1740861843228153744
+    second: Zerno Dialogue-Sheet_343
+  - first:
+      213: 6506969152765977200
+    second: Zerno Dialogue-Sheet_344
+  - first:
+      213: 1128705952893672330
+    second: Zerno Dialogue-Sheet_345
+  - first:
+      213: 7199517477519650198
+    second: Zerno Dialogue-Sheet_346
+  - first:
+      213: 3523983248244993741
+    second: Zerno Dialogue-Sheet_347
+  - first:
+      213: 7596405650306636165
+    second: Zerno Dialogue-Sheet_348
+  - first:
+      213: -174502028555473493
+    second: Zerno Dialogue-Sheet_349
+  - first:
+      213: -3307343810535167101
+    second: Zerno Dialogue-Sheet_350
+  - first:
+      213: 5390842973380367221
+    second: Zerno Dialogue-Sheet_351
+  - first:
+      213: 448878205025055127
+    second: Zerno Dialogue-Sheet_352
+  - first:
+      213: 2125165970117514104
+    second: Zerno Dialogue-Sheet_353
+  - first:
+      213: -5528892666352558037
+    second: Zerno Dialogue-Sheet_354
+  - first:
+      213: 1950046451282985178
+    second: Zerno Dialogue-Sheet_355
+  - first:
+      213: -9040374476172945921
+    second: Zerno Dialogue-Sheet_356
+  - first:
+      213: -2027376397095494736
+    second: Zerno Dialogue-Sheet_357
+  - first:
+      213: 8885880644847147491
+    second: Zerno Dialogue-Sheet_358
+  - first:
+      213: 6079239893054762046
+    second: Zerno Dialogue-Sheet_359
+  - first:
+      213: 8191669904614710682
+    second: Zerno Dialogue-Sheet_360
+  - first:
+      213: 6450768090976976300
+    second: Zerno Dialogue-Sheet_361
+  - first:
+      213: 4652331167677538269
+    second: Zerno Dialogue-Sheet_362
+  - first:
+      213: 7268408459847318668
+    second: Zerno Dialogue-Sheet_363
+  - first:
+      213: -637903079720550010
+    second: Zerno Dialogue-Sheet_364
+  - first:
+      213: -7441394607356735540
+    second: Zerno Dialogue-Sheet_365
+  - first:
+      213: 2416682140358866783
+    second: Zerno Dialogue-Sheet_366
+  - first:
+      213: -6894284347691942198
+    second: Zerno Dialogue-Sheet_367
+  - first:
+      213: -7786695720822954648
+    second: Zerno Dialogue-Sheet_368
+  - first:
+      213: 2376791816594840848
+    second: Zerno Dialogue-Sheet_369
+  - first:
+      213: 5388280411903152236
+    second: Zerno Dialogue-Sheet_370
+  - first:
+      213: -1853127448830744964
+    second: Zerno Dialogue-Sheet_371
+  - first:
+      213: -6140188678654204690
+    second: Zerno Dialogue-Sheet_372
+  - first:
+      213: -1177773956399745509
+    second: Zerno Dialogue-Sheet_373
+  - first:
+      213: -2484254264153595897
+    second: Zerno Dialogue-Sheet_374
+  - first:
+      213: -7092911384883407811
+    second: Zerno Dialogue-Sheet_375
+  - first:
+      213: -718750049225458843
+    second: Zerno Dialogue-Sheet_376
+  - first:
+      213: -7097233149872032425
+    second: Zerno Dialogue-Sheet_377
+  - first:
+      213: 7124604942824209397
+    second: Zerno Dialogue-Sheet_378
+  - first:
+      213: 3833082189714138894
+    second: Zerno Dialogue-Sheet_379
+  - first:
+      213: 7017892872869275520
+    second: Zerno Dialogue-Sheet_380
+  - first:
+      213: -6682048640133135096
+    second: Zerno Dialogue-Sheet_381
+  - first:
+      213: -8569471393584449502
+    second: Zerno Dialogue-Sheet_382
+  - first:
+      213: 6585404139414971053
+    second: Zerno Dialogue-Sheet_383
+  - first:
+      213: -5246869305474949913
+    second: Zerno Dialogue-Sheet_384
+  - first:
+      213: -7762001187253795728
+    second: Zerno Dialogue-Sheet_385
+  - first:
+      213: -9006918864964597572
+    second: Zerno Dialogue-Sheet_386
+  - first:
+      213: 7521098021139081721
+    second: Zerno Dialogue-Sheet_387
+  - first:
+      213: -1821629988841287017
+    second: Zerno Dialogue-Sheet_388
+  - first:
+      213: -3572330871288354854
+    second: Zerno Dialogue-Sheet_389
+  - first:
+      213: -7613957541953019123
+    second: Zerno Dialogue-Sheet_390
+  - first:
+      213: 9183071422769587612
+    second: Zerno Dialogue-Sheet_391
+  - first:
+      213: -8693142802464996921
+    second: Zerno Dialogue-Sheet_392
+  - first:
+      213: 1844677446982909188
+    second: Zerno Dialogue-Sheet_393
+  - first:
+      213: -2016981445157262379
+    second: Zerno Dialogue-Sheet_394
+  - first:
+      213: 44545478394120455
+    second: Zerno Dialogue-Sheet_395
+  - first:
+      213: 5097488310155977989
+    second: Zerno Dialogue-Sheet_396
+  - first:
+      213: 6415905071357006445
+    second: Zerno Dialogue-Sheet_397
+  - first:
+      213: -4959842234821365181
+    second: Zerno Dialogue-Sheet_398
+  - first:
+      213: -2112530532339782724
+    second: Zerno Dialogue-Sheet_399
+  - first:
+      213: -7587015756883518270
+    second: Zerno Dialogue-Sheet_400
+  - first:
+      213: 3737951190893775922
+    second: Zerno Dialogue-Sheet_401
+  - first:
+      213: 8229594903146745986
+    second: Zerno Dialogue-Sheet_402
+  - first:
+      213: 2063817504386107667
+    second: Zerno Dialogue-Sheet_403
+  - first:
+      213: 6800582491040081691
+    second: Zerno Dialogue-Sheet_404
+  - first:
+      213: 5292271621942947566
+    second: Zerno Dialogue-Sheet_405
+  - first:
+      213: 7406699129564216969
+    second: Zerno Dialogue-Sheet_406
+  - first:
+      213: 5194098879564556354
+    second: Zerno Dialogue-Sheet_407
+  - first:
+      213: 5313072241613819615
+    second: Zerno Dialogue-Sheet_408
+  - first:
+      213: -3728159356855533406
+    second: Zerno Dialogue-Sheet_409
+  - first:
+      213: 933185866022386286
+    second: Zerno Dialogue-Sheet_410
+  - first:
+      213: -3758463969485979907
+    second: Zerno Dialogue-Sheet_411
+  - first:
+      213: 7488673560162156268
+    second: Zerno Dialogue-Sheet_412
+  - first:
+      213: -2921157943191199584
+    second: Zerno Dialogue-Sheet_413
+  - first:
+      213: 4856145657569761902
+    second: Zerno Dialogue-Sheet_414
+  - first:
+      213: -1618400021061992424
+    second: Zerno Dialogue-Sheet_415
+  - first:
+      213: 993488000082886575
+    second: Zerno Dialogue-Sheet_416
+  - first:
+      213: 3560899299054212067
+    second: Zerno Dialogue-Sheet_417
+  - first:
+      213: -1237259642181723818
+    second: Zerno Dialogue-Sheet_418
+  - first:
+      213: -7397981591735202211
+    second: Zerno Dialogue-Sheet_419
+  - first:
+      213: 944607738155267998
+    second: Zerno Dialogue-Sheet_420
+  - first:
+      213: -5246458771346195389
+    second: Zerno Dialogue-Sheet_421
+  - first:
+      213: 5774790591795685953
+    second: Zerno Dialogue-Sheet_422
+  - first:
+      213: 988027859451978077
+    second: Zerno Dialogue-Sheet_423
+  - first:
+      213: -559113878208259136
+    second: Zerno Dialogue-Sheet_424
+  - first:
+      213: 3244737243811729226
+    second: Zerno Dialogue-Sheet_425
+  - first:
+      213: -2926761671962728435
+    second: Zerno Dialogue-Sheet_426
+  - first:
+      213: -5233582087643905314
+    second: Zerno Dialogue-Sheet_427
+  - first:
+      213: 7079997875579517462
+    second: Zerno Dialogue-Sheet_428
+  - first:
+      213: 7992809243822249898
+    second: Zerno Dialogue-Sheet_429
+  - first:
+      213: 6752471829179369556
+    second: Zerno Dialogue-Sheet_430
+  - first:
+      213: 1257824326263249830
+    second: Zerno Dialogue-Sheet_431
+  - first:
+      213: -8649666181347647476
+    second: Zerno Dialogue-Sheet_432
+  - first:
+      213: 6272612636901292697
+    second: Zerno Dialogue-Sheet_433
+  - first:
+      213: -4054177197373719374
+    second: Zerno Dialogue-Sheet_434
+  - first:
+      213: 2968400035022893850
+    second: Zerno Dialogue-Sheet_435
+  - first:
+      213: -7666284086664627726
+    second: Zerno Dialogue-Sheet_436
+  - first:
+      213: 7141134997174611199
+    second: Zerno Dialogue-Sheet_437
+  - first:
+      213: -2864148442612529457
+    second: Zerno Dialogue-Sheet_438
+  - first:
+      213: -7004539417040616414
+    second: Zerno Dialogue-Sheet_439
+  - first:
+      213: 3013639071686054
+    second: Zerno Dialogue-Sheet_440
+  - first:
+      213: 8689858802774275953
+    second: Zerno Dialogue-Sheet_441
+  - first:
+      213: 1310445974059068180
+    second: Zerno Dialogue-Sheet_442
+  - first:
+      213: 1801823589373942063
+    second: Zerno Dialogue-Sheet_443
+  - first:
+      213: 5367132222372348063
+    second: Zerno Dialogue-Sheet_444
+  - first:
+      213: -4574318859641540128
+    second: Zerno Dialogue-Sheet_445
+  - first:
+      213: 8915226021924805638
+    second: Zerno Dialogue-Sheet_446
+  - first:
+      213: 726996433663677988
+    second: Zerno Dialogue-Sheet_447
+  - first:
+      213: 5543705874760096206
+    second: Zerno Dialogue-Sheet_448
+  - first:
+      213: -8977475664088218124
+    second: Zerno Dialogue-Sheet_449
+  - first:
+      213: 4316555761992565655
+    second: Zerno Dialogue-Sheet_450
+  - first:
+      213: -6631347329352625072
+    second: Zerno Dialogue-Sheet_451
+  - first:
+      213: -2752281112018441247
+    second: Zerno Dialogue-Sheet_452
+  - first:
+      213: 3369343044897541739
+    second: Zerno Dialogue-Sheet_453
+  - first:
+      213: -7448436390193544686
+    second: Zerno Dialogue-Sheet_454
+  - first:
+      213: -2738432304442839185
+    second: Zerno Dialogue-Sheet_455
+  - first:
+      213: -5873546063419986161
+    second: Zerno Dialogue-Sheet_456
+  - first:
+      213: 6928598462978368119
+    second: Zerno Dialogue-Sheet_457
+  - first:
+      213: -757026402285590767
+    second: Zerno Dialogue-Sheet_458
+  - first:
+      213: -7916504966864227585
+    second: Zerno Dialogue-Sheet_459
+  - first:
+      213: -2029683986424494916
+    second: Zerno Dialogue-Sheet_460
+  - first:
+      213: -7838059312288437011
+    second: Zerno Dialogue-Sheet_461
+  - first:
+      213: -7857935118649666328
+    second: Zerno Dialogue-Sheet_462
+  - first:
+      213: 4827439394631340904
+    second: Zerno Dialogue-Sheet_463
+  - first:
+      213: 8874755948245343064
+    second: Zerno Dialogue-Sheet_464
+  - first:
+      213: -5327666786715056719
+    second: Zerno Dialogue-Sheet_465
+  - first:
+      213: -2564622329399418739
+    second: Zerno Dialogue-Sheet_466
+  - first:
+      213: -4402090196499046445
+    second: Zerno Dialogue-Sheet_467
+  - first:
+      213: 5896503180338528773
+    second: Zerno Dialogue-Sheet_468
+  - first:
+      213: 7437124018588639669
+    second: Zerno Dialogue-Sheet_469
+  - first:
+      213: 5295456213476920563
+    second: Zerno Dialogue-Sheet_470
+  - first:
+      213: 5508396836042926967
+    second: Zerno Dialogue-Sheet_471
+  - first:
+      213: -6453535258552652058
+    second: Zerno Dialogue-Sheet_472
+  - first:
+      213: 4059700810497148749
+    second: Zerno Dialogue-Sheet_473
+  - first:
+      213: 3909069025664652811
+    second: Zerno Dialogue-Sheet_474
+  - first:
+      213: 6759433956517271676
+    second: Zerno Dialogue-Sheet_475
+  - first:
+      213: 613921770451651927
+    second: Zerno Dialogue-Sheet_476
+  - first:
+      213: -965999436447677198
+    second: Zerno Dialogue-Sheet_477
+  - first:
+      213: -4274826309790369750
+    second: Zerno Dialogue-Sheet_478
+  - first:
+      213: 3247284952096032178
+    second: Zerno Dialogue-Sheet_479
+  - first:
+      213: 1220237694634048615
+    second: Zerno Dialogue-Sheet_480
+  - first:
+      213: 644516570570613189
+    second: Zerno Dialogue-Sheet_481
+  - first:
+      213: 627778676163943920
+    second: Zerno Dialogue-Sheet_482
+  - first:
+      213: 5564340952217915774
+    second: Zerno Dialogue-Sheet_483
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af69fa220d663cad0800000000000000
+      internalID: -2683187908861520134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4480
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cba53b54d5d3570800000000000000
+      internalID: 8448011029960113166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4400
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e64f0c4d54262c0800000000000000
+      internalID: -4439909502561260018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aaec993a9cd7e50800000000000000
+      internalID: 6808819916151368294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4240
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f9c5c590cf9f820800000000000000
+      internalID: 2952668147852550020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4160
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a98b61d1d357f650800000000000000
+      internalID: 6266569567136090534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4080
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeedffec9cbc1ab0800000000000000
+      internalID: -5035942901079740708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017e3a341078a27b0800000000000000
+      internalID: -5248233976247359728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3920
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a5803ede42b5d70800000000000000
+      internalID: 9032854081756486199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1670c519db341010800000000000000
+      internalID: 1158616807699936797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3760
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fad9583214008370800000000000000
+      internalID: 8322656587682011895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3680
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1560e06a74b1ad610800000000000000
+      internalID: 1646658608299902545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49212646814667df0800000000000000
+      internalID: -182848678935784812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403e0b67ffa6d7640800000000000000
+      internalID: 5079333600184296196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3440
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e4b2a4fcaa831e0800000000000000
+      internalID: -2217835009200665086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bbf26c11f96ca10800000000000000
+      internalID: 1929404389063113517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3280
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa25693f9f4e04410800000000000000
+      internalID: 1459418041452745391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded016b043719f2c0800000000000000
+      internalID: -4397458048853930515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3e227760a323a40800000000000000
+      internalID: 5346399507085190066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3040
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c195fa1306560ff10800000000000000
+      internalID: 2301450873411164444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2960
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dc176f19a24c2d0800000000000000
+      internalID: -3259433423916118664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30ab5ca0c1683210800000000000000
+      internalID: 1312906771531800637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f565be5f0d818570800000000000000
+      internalID: 8467203871586215408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc2708b8f3696e20800000000000000
+      internalID: 3344314118189821179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2580c1f39761af1f0800000000000000
+      internalID: -1010470456385599406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ecb0dd73a34e740800000000000000
+      internalID: 5180329482989063712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2480
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a4844e1cdb17ca0800000000000000
+      internalID: -6020822586361361855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831bd907aae1f6c60800000000000000
+      internalID: 7813497595893756216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2320
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e2731155f6ba2f0800000000000000
+      internalID: -960551684361736587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8dbcb63243d09e0800000000000000
+      internalID: -1653608161438082910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b37d32510ecfeff0800000000000000
+      internalID: -4558569534032969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2080
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f850be831dce92f80800000000000000
+      internalID: -8130707268893473393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6836d954fa48e7270800000000000000
+      internalID: 8250177455711413126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba6a2cb81a812590800000000000000
+      internalID: -7700722048986092876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1840
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797797fb1454810b0800000000000000
+      internalID: -5757775974905579625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17f47d258497e650800000000000000
+      internalID: 6262137106596165403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aeac3c4d2260940800000000000000
+      internalID: 5261931511842269703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057c130fd15b7e5a0800000000000000
+      internalID: -6492021197642807472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1520
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74b952afce923830800000000000000
+      internalID: 4049473629578703995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fb5bee73802bc40800000000000000
+      internalID: 5526488729058131799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe0589ea772a2970800000000000000
+      internalID: 8730834236468432637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6312693a1be9f3d30800000000000000
+      internalID: 4413420645637300534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd739a910e18e210800000000000000
+      internalID: 1362371879516732850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8573bfc3d468cd650800000000000000
+      internalID: 6259025248431847256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c9fb55543c5ca50800000000000000
+      internalID: 6540848736384294021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafc9943713b464a0800000000000000
+      internalID: -6600954241570189396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df4d703335b88920800000000000000
+      internalID: 2992841183849172944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6453ff3d7099e3770800000000000000
+      internalID: 8592473397970023750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63721d472b74b9340800000000000000
+      internalID: 4871566253720938294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6601abdd99eba0470800000000000000
+      internalID: 8361705226225979494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9021e639d2a008a30800000000000000
+      internalID: 4215380442082054665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003348f7a4315f540800000000000000
+      internalID: 5040956568599016192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa4606dded3966c0800000000000000
+      internalID: -4149717489937921375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e83c13b0dcff5d0800000000000000
+      internalID: -3026474976606450169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaefa296d609ba700800000000000000
+      internalID: 552694178873278126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcac47306fe4d0da0800000000000000
+      internalID: -5977034311923873075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b992b15122d476190800000000000000
+      internalID: -7969316206830474853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zerno Dialogue-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1710
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfee351453fb61c0800000000000000
+      internalID: -4509243059422171195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f43a26fd4c98464459d2c7fd0176a51b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":58.0},"gridSpriteSize":{"x":1710.0,"y":80.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Zerno Dialogue-Sheet_0: -2683187908861520134
+      Zerno Dialogue-Sheet_1: 8448011029960113166
+      Zerno Dialogue-Sheet_10: 8322656587682011895
+      Zerno Dialogue-Sheet_11: 1646658608299902545
+      Zerno Dialogue-Sheet_12: -182848678935784812
+      Zerno Dialogue-Sheet_13: 5079333600184296196
+      Zerno Dialogue-Sheet_14: -2217835009200665086
+      Zerno Dialogue-Sheet_15: 1929404389063113517
+      Zerno Dialogue-Sheet_16: 1459418041452745391
+      Zerno Dialogue-Sheet_17: -4397458048853930515
+      Zerno Dialogue-Sheet_18: 5346399507085190066
+      Zerno Dialogue-Sheet_19: 2301450873411164444
+      Zerno Dialogue-Sheet_2: -4439909502561260018
+      Zerno Dialogue-Sheet_20: -3259433423916118664
+      Zerno Dialogue-Sheet_21: 1312906771531800637
+      Zerno Dialogue-Sheet_22: 8467203871586215408
+      Zerno Dialogue-Sheet_23: 3344314118189821179
+      Zerno Dialogue-Sheet_24: -1010470456385599406
+      Zerno Dialogue-Sheet_25: 5180329482989063712
+      Zerno Dialogue-Sheet_26: -6020822586361361855
+      Zerno Dialogue-Sheet_27: 7813497595893756216
+      Zerno Dialogue-Sheet_28: -960551684361736587
+      Zerno Dialogue-Sheet_29: -1653608161438082910
+      Zerno Dialogue-Sheet_3: 6808819916151368294
+      Zerno Dialogue-Sheet_30: -4558569534032969
+      Zerno Dialogue-Sheet_31: -8130707268893473393
+      Zerno Dialogue-Sheet_32: 8250177455711413126
+      Zerno Dialogue-Sheet_33: -7700722048986092876
+      Zerno Dialogue-Sheet_34: -5757775974905579625
+      Zerno Dialogue-Sheet_35: 6262137106596165403
+      Zerno Dialogue-Sheet_36: 5261931511842269703
+      Zerno Dialogue-Sheet_37: -6492021197642807472
+      Zerno Dialogue-Sheet_38: 4049473629578703995
+      Zerno Dialogue-Sheet_39: 5526488729058131799
+      Zerno Dialogue-Sheet_4: 2952668147852550020
+      Zerno Dialogue-Sheet_40: 8730834236468432637
+      Zerno Dialogue-Sheet_41: 4413420645637300534
+      Zerno Dialogue-Sheet_42: 1362371879516732850
+      Zerno Dialogue-Sheet_43: 6259025248431847256
+      Zerno Dialogue-Sheet_44: 6540848736384294021
+      Zerno Dialogue-Sheet_45: -6600954241570189396
+      Zerno Dialogue-Sheet_46: 2992841183849172944
+      Zerno Dialogue-Sheet_47: 8592473397970023750
+      Zerno Dialogue-Sheet_48: 4871566253720938294
+      Zerno Dialogue-Sheet_49: 8361705226225979494
+      Zerno Dialogue-Sheet_5: 6266569567136090534
+      Zerno Dialogue-Sheet_50: 4215380442082054665
+      Zerno Dialogue-Sheet_51: 5040956568599016192
+      Zerno Dialogue-Sheet_52: -4149717489937921375
+      Zerno Dialogue-Sheet_53: -3026474976606450169
+      Zerno Dialogue-Sheet_54: 552694178873278126
+      Zerno Dialogue-Sheet_55: -5977034311923873075
+      Zerno Dialogue-Sheet_56: -7969316206830474853
+      Zerno Dialogue-Sheet_57: -4509243059422171195
+      Zerno Dialogue-Sheet_6: -5035942901079740708
+      Zerno Dialogue-Sheet_7: -5248233976247359728
+      Zerno Dialogue-Sheet_8: 9032854081756486199
+      Zerno Dialogue-Sheet_9: 1158616807699936797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

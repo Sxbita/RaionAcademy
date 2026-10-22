@@ -1,0 +1,2347 @@
+fileFormatVersion: 2
+guid: 20fef22c4e159134d98f593088203bea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6546942410864960800
+    second: Teaser Text-Sheet_0
+  - first:
+      213: -5281372408716018442
+    second: Teaser Text-Sheet_1
+  - first:
+      213: -7930925484881055925
+    second: Teaser Text-Sheet_2
+  - first:
+      213: 5406433889189442806
+    second: Teaser Text-Sheet_3
+  - first:
+      213: -3210112463705658019
+    second: Teaser Text-Sheet_4
+  - first:
+      213: -7456704168127149221
+    second: Teaser Text-Sheet_5
+  - first:
+      213: -3300621330391625080
+    second: Teaser Text-Sheet_6
+  - first:
+      213: -7026027044946848370
+    second: Teaser Text-Sheet_7
+  - first:
+      213: -1304483947217119849
+    second: Teaser Text-Sheet_8
+  - first:
+      213: -8468101544265418723
+    second: Teaser Text-Sheet_9
+  - first:
+      213: 5992901303205857945
+    second: Teaser Text-Sheet_10
+  - first:
+      213: -5476058263920385623
+    second: Teaser Text-Sheet_11
+  - first:
+      213: 917060129874512787
+    second: Teaser Text-Sheet_12
+  - first:
+      213: 1740577599523390626
+    second: Teaser Text-Sheet_13
+  - first:
+      213: 160613807948599244
+    second: Teaser Text-Sheet_14
+  - first:
+      213: 3839421431991542331
+    second: Teaser Text-Sheet_15
+  - first:
+      213: 1423700970434747957
+    second: Teaser Text-Sheet_16
+  - first:
+      213: 3080841690680687926
+    second: Teaser Text-Sheet_17
+  - first:
+      213: 6782877763031208784
+    second: Teaser Text-Sheet_18
+  - first:
+      213: -9196914095348238421
+    second: Teaser Text-Sheet_19
+  - first:
+      213: -7985692366732888689
+    second: Teaser Text-Sheet_20
+  - first:
+      213: 7622522988683202741
+    second: Teaser Text-Sheet_21
+  - first:
+      213: -4134031295817798780
+    second: Teaser Text-Sheet_22
+  - first:
+      213: 866293104832331877
+    second: Teaser Text-Sheet_23
+  - first:
+      213: -4604777423432743833
+    second: Teaser Text-Sheet_24
+  - first:
+      213: 5752727691242046086
+    second: Teaser Text-Sheet_25
+  - first:
+      213: 2401392275324113699
+    second: Teaser Text-Sheet_26
+  - first:
+      213: 4642765231502698266
+    second: Teaser Text-Sheet_27
+  - first:
+      213: 3438375140037831890
+    second: Teaser Text-Sheet_28
+  - first:
+      213: -6531764072613061495
+    second: Teaser Text-Sheet_29
+  - first:
+      213: 7999465297958540681
+    second: Teaser Text-Sheet_30
+  - first:
+      213: -3266152268509175508
+    second: Teaser Text-Sheet_31
+  - first:
+      213: -8271039260925829426
+    second: Teaser Text-Sheet_32
+  - first:
+      213: -6041895647327689203
+    second: Teaser Text-Sheet_33
+  - first:
+      213: 3432059385087095905
+    second: Teaser Text-Sheet_34
+  - first:
+      213: 4214690220673572999
+    second: Teaser Text-Sheet_35
+  - first:
+      213: 3019746099612008929
+    second: Teaser Text-Sheet_36
+  - first:
+      213: 7082663010190520215
+    second: Teaser Text-Sheet_37
+  - first:
+      213: -65803344104405755
+    second: Teaser Text-Sheet_38
+  - first:
+      213: 553231896920587904
+    second: Teaser Text-Sheet_39
+  - first:
+      213: 518528947057151547
+    second: Teaser Text-Sheet_40
+  - first:
+      213: 5856698402997989148
+    second: Teaser Text-Sheet_41
+  - first:
+      213: 8591714691919994943
+    second: Teaser Text-Sheet_42
+  - first:
+      213: 8963162942349949893
+    second: Teaser Text-Sheet_43
+  - first:
+      213: -5679799679035197142
+    second: Teaser Text-Sheet_44
+  - first:
+      213: 3510506441889325394
+    second: Teaser Text-Sheet_45
+  - first:
+      213: -8016727356312431544
+    second: Teaser Text-Sheet_46
+  - first:
+      213: -8723510749341784430
+    second: Teaser Text-Sheet_47
+  - first:
+      213: -2319757772492387553
+    second: Teaser Text-Sheet_48
+  - first:
+      213: 7745966410811806646
+    second: Teaser Text-Sheet_49
+  - first:
+      213: 8473411606376697859
+    second: Teaser Text-Sheet_50
+  - first:
+      213: 862339424705987946
+    second: Teaser Text-Sheet_51
+  - first:
+      213: -820693975234647771
+    second: Teaser Text-Sheet_52
+  - first:
+      213: 2395343835269518710
+    second: Teaser Text-Sheet_53
+  - first:
+      213: 7364949238802401281
+    second: Teaser Text-Sheet_54
+  - first:
+      213: 8246401821590715094
+    second: Teaser Text-Sheet_55
+  - first:
+      213: 4760021589515269565
+    second: Teaser Text-Sheet_56
+  - first:
+      213: -8605732797805363570
+    second: Teaser Text-Sheet_57
+  - first:
+      213: -4973521872513333580
+    second: Teaser Text-Sheet_58
+  - first:
+      213: 6345124731596715349
+    second: Teaser Text-Sheet_59
+  - first:
+      213: 6875357900410877070
+    second: Teaser Text-Sheet_60
+  - first:
+      213: 6389251753376900199
+    second: Teaser Text-Sheet_61
+  - first:
+      213: -8185860492704518464
+    second: Teaser Text-Sheet_62
+  - first:
+      213: 6858655092572951341
+    second: Teaser Text-Sheet_63
+  - first:
+      213: -4030576541979612731
+    second: Teaser Text-Sheet_64
+  - first:
+      213: 7565104797187877243
+    second: Teaser Text-Sheet_65
+  - first:
+      213: -357168334273006738
+    second: Teaser Text-Sheet_66
+  - first:
+      213: 227349484361055241
+    second: Teaser Text-Sheet_67
+  - first:
+      213: -7467310100214407016
+    second: Teaser Text-Sheet_68
+  - first:
+      213: -8610839084806975268
+    second: Teaser Text-Sheet_69
+  - first:
+      213: -6296636255501059137
+    second: Teaser Text-Sheet_70
+  - first:
+      213: 6827104678975012312
+    second: Teaser Text-Sheet_71
+  - first:
+      213: -8021674352051372188
+    second: Teaser Text-Sheet_72
+  - first:
+      213: -4167271453165876460
+    second: Teaser Text-Sheet_73
+  - first:
+      213: 6843667316476807312
+    second: Teaser Text-Sheet_74
+  - first:
+      213: 1388088887366535942
+    second: Teaser Text-Sheet_75
+  - first:
+      213: -2033816480976410176
+    second: Teaser Text-Sheet_76
+  - first:
+      213: 5699570165894244346
+    second: Teaser Text-Sheet_77
+  - first:
+      213: -8726221425374100966
+    second: Teaser Text-Sheet_78
+  - first:
+      213: -6617700197302927284
+    second: Teaser Text-Sheet_79
+  - first:
+      213: 1886035875200435725
+    second: Teaser Text-Sheet_80
+  - first:
+      213: -668228730738403107
+    second: Teaser Text-Sheet_81
+  - first:
+      213: 3949048002208002234
+    second: Teaser Text-Sheet_82
+  - first:
+      213: 7469193278578614958
+    second: Teaser Text-Sheet_83
+  - first:
+      213: 1651742592631700182
+    second: Teaser Text-Sheet_84
+  - first:
+      213: -8988976974291482158
+    second: Teaser Text-Sheet_85
+  - first:
+      213: 2436514482206992419
+    second: Teaser Text-Sheet_86
+  - first:
+      213: 6903374448003905366
+    second: Teaser Text-Sheet_87
+  - first:
+      213: 255726319827060114
+    second: Teaser Text-Sheet_88
+  - first:
+      213: 7204192031423523996
+    second: Teaser Text-Sheet_89
+  - first:
+      213: -5141699356440506278
+    second: Teaser Text-Sheet_90
+  - first:
+      213: -5865341651372001293
+    second: Teaser Text-Sheet_91
+  - first:
+      213: -640692953621009626
+    second: Teaser Text-Sheet_92
+  - first:
+      213: -8329328093730345697
+    second: Teaser Text-Sheet_93
+  - first:
+      213: -699555436750997953
+    second: Teaser Text-Sheet_94
+  - first:
+      213: 611669120722299740
+    second: Teaser Text-Sheet_95
+  - first:
+      213: 2915526006712144560
+    second: Teaser Text-Sheet_96
+  - first:
+      213: -847192437202243516
+    second: Teaser Text-Sheet_97
+  - first:
+      213: 6252392693280484924
+    second: Teaser Text-Sheet_98
+  - first:
+      213: 7179049875130972694
+    second: Teaser Text-Sheet_99
+  - first:
+      213: -7148124348520388305
+    second: Teaser Text-Sheet_100
+  - first:
+      213: -7570677077749587653
+    second: Teaser Text-Sheet_101
+  - first:
+      213: 4696834321167933064
+    second: Teaser Text-Sheet_102
+  - first:
+      213: 4143766456435811659
+    second: Teaser Text-Sheet_103
+  - first:
+      213: 146798035653917450
+    second: Teaser Text-Sheet_104
+  - first:
+      213: 7559135971872200000
+    second: Teaser Text-Sheet_105
+  - first:
+      213: -4621749900689908780
+    second: Teaser Text-Sheet_106
+  - first:
+      213: 7333909124708166777
+    second: Teaser Text-Sheet_107
+  - first:
+      213: -13954905597630295
+    second: Teaser Text-Sheet_108
+  - first:
+      213: 4822644376031222225
+    second: Teaser Text-Sheet_109
+  - first:
+      213: 2318870132492109169
+    second: Teaser Text-Sheet_110
+  - first:
+      213: 6919402004918049778
+    second: Teaser Text-Sheet_111
+  - first:
+      213: 3810255588079952792
+    second: Teaser Text-Sheet_112
+  - first:
+      213: 7898551499227386167
+    second: Teaser Text-Sheet_113
+  - first:
+      213: 6657998768464590962
+    second: Teaser Text-Sheet_114
+  - first:
+      213: -118791344347665170
+    second: Teaser Text-Sheet_115
+  - first:
+      213: -8616118164886492763
+    second: Teaser Text-Sheet_116
+  - first:
+      213: -2008579759942055275
+    second: Teaser Text-Sheet_117
+  - first:
+      213: 301167043175235741
+    second: Teaser Text-Sheet_118
+  - first:
+      213: 8681845049981073987
+    second: Teaser Text-Sheet_119
+  - first:
+      213: -8373184987527344077
+    second: Teaser Text-Sheet_120
+  - first:
+      213: -7301073649392592028
+    second: Teaser Text-Sheet_121
+  - first:
+      213: 1155881222144610928
+    second: Teaser Text-Sheet_122
+  - first:
+      213: -7204168941177624900
+    second: Teaser Text-Sheet_123
+  - first:
+      213: -8648064045949643258
+    second: Teaser Text-Sheet_124
+  - first:
+      213: 6055838632502597489
+    second: Teaser Text-Sheet_125
+  - first:
+      213: 4131528885571362739
+    second: Teaser Text-Sheet_126
+  - first:
+      213: -6678517739690025500
+    second: Teaser Text-Sheet_127
+  - first:
+      213: -5792741172666404552
+    second: Teaser Text-Sheet_128
+  - first:
+      213: 911182298149088844
+    second: Teaser Text-Sheet_129
+  - first:
+      213: -72437069973965848
+    second: Teaser Text-Sheet_130
+  - first:
+      213: 1470253478712037717
+    second: Teaser Text-Sheet_131
+  - first:
+      213: -7878449647822896788
+    second: Teaser Text-Sheet_132
+  - first:
+      213: 5071676277016240215
+    second: Teaser Text-Sheet_133
+  - first:
+      213: -1417214327691757620
+    second: Teaser Text-Sheet_134
+  - first:
+      213: 7835946436111298787
+    second: Teaser Text-Sheet_135
+  - first:
+      213: 7106004260569479889
+    second: Teaser Text-Sheet_136
+  - first:
+      213: -5670008763041785141
+    second: Teaser Text-Sheet_137
+  - first:
+      213: -1755462599330304543
+    second: Teaser Text-Sheet_138
+  - first:
+      213: -2230819600815393829
+    second: Teaser Text-Sheet_139
+  - first:
+      213: 7234002464434873509
+    second: Teaser Text-Sheet_140
+  - first:
+      213: 5437722959337866656
+    second: Teaser Text-Sheet_141
+  - first:
+      213: 6570395898292250724
+    second: Teaser Text-Sheet_142
+  - first:
+      213: 5091577066901837112
+    second: Teaser Text-Sheet_143
+  - first:
+      213: 627070153302779332
+    second: Teaser Text-Sheet_144
+  - first:
+      213: 7895616288860202060
+    second: Teaser Text-Sheet_145
+  - first:
+      213: 619564515518784340
+    second: Teaser Text-Sheet_146
+  - first:
+      213: -7999865434045379664
+    second: Teaser Text-Sheet_147
+  - first:
+      213: -3121017361909337626
+    second: Teaser Text-Sheet_148
+  - first:
+      213: 5645913354606207236
+    second: Teaser Text-Sheet_149
+  - first:
+      213: 8030682411157340091
+    second: Teaser Text-Sheet_150
+  - first:
+      213: 5937663557761113454
+    second: Teaser Text-Sheet_151
+  - first:
+      213: 1535857008746370694
+    second: Teaser Text-Sheet_152
+  - first:
+      213: -6519128891719780296
+    second: Teaser Text-Sheet_153
+  - first:
+      213: 6725854955891465509
+    second: Teaser Text-Sheet_154
+  - first:
+      213: -406032697032207180
+    second: Teaser Text-Sheet_155
+  - first:
+      213: 4739088198759396807
+    second: Teaser Text-Sheet_156
+  - first:
+      213: -5629564197842155075
+    second: Teaser Text-Sheet_157
+  - first:
+      213: -284383944068245614
+    second: Teaser Text-Sheet_158
+  - first:
+      213: 164338463770119463
+    second: Teaser Text-Sheet_159
+  - first:
+      213: -8706126664118500974
+    second: Teaser Text-Sheet_160
+  - first:
+      213: 4009874106166433714
+    second: Teaser Text-Sheet_161
+  - first:
+      213: 5335490081112823189
+    second: Teaser Text-Sheet_162
+  - first:
+      213: 2489728479347233238
+    second: Teaser Text-Sheet_163
+  - first:
+      213: 8205140799584138123
+    second: Teaser Text-Sheet_164
+  - first:
+      213: 4366294426472560605
+    second: Teaser Text-Sheet_165
+  - first:
+      213: 6804835250182001998
+    second: Teaser Text-Sheet_166
+  - first:
+      213: 3504026684261818794
+    second: Teaser Text-Sheet_167
+  - first:
+      213: 4724881659576329504
+    second: Teaser Text-Sheet_168
+  - first:
+      213: 8340431647326325595
+    second: Teaser Text-Sheet_169
+  - first:
+      213: -2702024163882130469
+    second: Teaser Text-Sheet_170
+  - first:
+      213: -7376871034605535926
+    second: Teaser Text-Sheet_171
+  - first:
+      213: -7045760224675859568
+    second: Teaser Text-Sheet_172
+  - first:
+      213: 6926099067369423314
+    second: Teaser Text-Sheet_173
+  - first:
+      213: -896812506343710659
+    second: Teaser Text-Sheet_174
+  - first:
+      213: -2630007434034762706
+    second: Teaser Text-Sheet_175
+  - first:
+      213: 5958949625831795007
+    second: Teaser Text-Sheet_176
+  - first:
+      213: -3359788424077476641
+    second: Teaser Text-Sheet_177
+  - first:
+      213: -390103988205803220
+    second: Teaser Text-Sheet_178
+  - first:
+      213: -492452085021040707
+    second: Teaser Text-Sheet_179
+  - first:
+      213: 7224737078084025983
+    second: Teaser Text-Sheet_180
+  - first:
+      213: 94549865015639601
+    second: Teaser Text-Sheet_181
+  - first:
+      213: 3529182976635135626
+    second: Teaser Text-Sheet_182
+  - first:
+      213: 22708145481651473
+    second: Teaser Text-Sheet_183
+  - first:
+      213: -7879767337724232695
+    second: Teaser Text-Sheet_184
+  - first:
+      213: 1395781392223944450
+    second: Teaser Text-Sheet_185
+  - first:
+      213: 5932510646871139054
+    second: Teaser Text-Sheet_186
+  - first:
+      213: -1609170062495081513
+    second: Teaser Text-Sheet_187
+  - first:
+      213: -5504782945729629758
+    second: Teaser Text-Sheet_188
+  - first:
+      213: -4965684690477114302
+    second: Teaser Text-Sheet_189
+  - first:
+      213: -7507499662134192645
+    second: Teaser Text-Sheet_190
+  - first:
+      213: -2895824945318380689
+    second: Teaser Text-Sheet_191
+  - first:
+      213: 5861648011866843902
+    second: Teaser Text-Sheet_192
+  - first:
+      213: -3236165934084405194
+    second: Teaser Text-Sheet_193
+  - first:
+      213: 8696573128697464221
+    second: Teaser Text-Sheet_194
+  - first:
+      213: 6537727838464962390
+    second: Teaser Text-Sheet_195
+  - first:
+      213: -4996184678697324152
+    second: Teaser Text-Sheet_196
+  - first:
+      213: -775166915281337058
+    second: Teaser Text-Sheet_197
+  - first:
+      213: -7740316782932616643
+    second: Teaser Text-Sheet_198
+  - first:
+      213: -4597795862107012629
+    second: Teaser Text-Sheet_199
+  - first:
+      213: 5595018520683055185
+    second: Teaser Text-Sheet_200
+  - first:
+      213: -8620024406953016034
+    second: Teaser Text-Sheet_201
+  - first:
+      213: 8217620794962203584
+    second: Teaser Text-Sheet_202
+  - first:
+      213: 3158184516048441875
+    second: Teaser Text-Sheet_203
+  - first:
+      213: 3487208260004792619
+    second: Teaser Text-Sheet_204
+  - first:
+      213: -4611393158314626866
+    second: Teaser Text-Sheet_205
+  - first:
+      213: 3390136365150729529
+    second: Teaser Text-Sheet_206
+  - first:
+      213: 3370453105678755345
+    second: Teaser Text-Sheet_207
+  - first:
+      213: -5262863738766172571
+    second: Teaser Text-Sheet_208
+  - first:
+      213: 5073315544234108767
+    second: Teaser Text-Sheet_209
+  - first:
+      213: 3602056361287412269
+    second: Teaser Text-Sheet_210
+  - first:
+      213: 7349812936278923169
+    second: Teaser Text-Sheet_211
+  - first:
+      213: -6385575781155552355
+    second: Teaser Text-Sheet_212
+  - first:
+      213: -8999622997607655922
+    second: Teaser Text-Sheet_213
+  - first:
+      213: -6706279143175807398
+    second: Teaser Text-Sheet_214
+  - first:
+      213: -2177233201661937092
+    second: Teaser Text-Sheet_215
+  - first:
+      213: -3922601130454726492
+    second: Teaser Text-Sheet_216
+  - first:
+      213: 1599073348684375909
+    second: Teaser Text-Sheet_217
+  - first:
+      213: 3337084392928703571
+    second: Teaser Text-Sheet_218
+  - first:
+      213: 3502797622672196201
+    second: Teaser Text-Sheet_219
+  - first:
+      213: -1595767212660774312
+    second: Teaser Text-Sheet_220
+  - first:
+      213: -1395527623334250223
+    second: Teaser Text-Sheet_221
+  - first:
+      213: 3389096760601390702
+    second: Teaser Text-Sheet_222
+  - first:
+      213: 977302556512385401
+    second: Teaser Text-Sheet_223
+  - first:
+      213: 370371836774771736
+    second: Teaser Text-Sheet_224
+  - first:
+      213: -3852963328673515167
+    second: Teaser Text-Sheet_225
+  - first:
+      213: 6450912531153675669
+    second: Teaser Text-Sheet_226
+  - first:
+      213: -2464825751193685134
+    second: Teaser Text-Sheet_227
+  - first:
+      213: 3869781637239004471
+    second: Teaser Text-Sheet_228
+  - first:
+      213: -4778235238951394379
+    second: Teaser Text-Sheet_229
+  - first:
+      213: 2097103571591855588
+    second: Teaser Text-Sheet_230
+  - first:
+      213: -7485056971386048824
+    second: Teaser Text-Sheet_231
+  - first:
+      213: 8695363049722385200
+    second: Teaser Text-Sheet_232
+  - first:
+      213: -3551926432593468092
+    second: Teaser Text-Sheet_233
+  - first:
+      213: 1694029770874126536
+    second: Teaser Text-Sheet_234
+  - first:
+      213: 8378015327210254767
+    second: Teaser Text-Sheet_235
+  - first:
+      213: -3724864414870718870
+    second: Teaser Text-Sheet_236
+  - first:
+      213: -2706120651072105017
+    second: Teaser Text-Sheet_237
+  - first:
+      213: 7522489623095178191
+    second: Teaser Text-Sheet_238
+  - first:
+      213: 8087488897555884407
+    second: Teaser Text-Sheet_239
+  - first:
+      213: 730363788045104813
+    second: Teaser Text-Sheet_240
+  - first:
+      213: 259240179744061298
+    second: Teaser Text-Sheet_241
+  - first:
+      213: -4594219480110982588
+    second: Teaser Text-Sheet_242
+  - first:
+      213: 3776679241557218463
+    second: Teaser Text-Sheet_243
+  - first:
+      213: 2250085397569012558
+    second: Teaser Text-Sheet_244
+  - first:
+      213: 6745516843991034799
+    second: Teaser Text-Sheet_245
+  - first:
+      213: 5951442542067039832
+    second: Teaser Text-Sheet_246
+  - first:
+      213: 1131715369806660987
+    second: Teaser Text-Sheet_247
+  - first:
+      213: 2214062564677324787
+    second: Teaser Text-Sheet_248
+  - first:
+      213: 8350359188337000816
+    second: Teaser Text-Sheet_249
+  - first:
+      213: 2127171366591689492
+    second: Teaser Text-Sheet_250
+  - first:
+      213: -6073610258296391495
+    second: Teaser Text-Sheet_251
+  - first:
+      213: 2538701068038250231
+    second: Teaser Text-Sheet_252
+  - first:
+      213: 1218357115242570745
+    second: Teaser Text-Sheet_253
+  - first:
+      213: 7152225617169051149
+    second: Teaser Text-Sheet_254
+  - first:
+      213: 3890663722036431473
+    second: Teaser Text-Sheet_255
+  - first:
+      213: 4119599848905450488
+    second: Teaser Text-Sheet_256
+  - first:
+      213: -41355157261333341
+    second: Teaser Text-Sheet_257
+  - first:
+      213: 838400573955613522
+    second: Teaser Text-Sheet_258
+  - first:
+      213: -2597729621179433046
+    second: Teaser Text-Sheet_259
+  - first:
+      213: -7757590786393183283
+    second: Teaser Text-Sheet_260
+  - first:
+      213: 7137407066597690338
+    second: Teaser Text-Sheet_261
+  - first:
+      213: -8691965899099693898
+    second: Teaser Text-Sheet_262
+  - first:
+      213: -7597975999423963252
+    second: Teaser Text-Sheet_263
+  - first:
+      213: 7661714374571882493
+    second: Teaser Text-Sheet_264
+  - first:
+      213: -3416794503914758857
+    second: Teaser Text-Sheet_265
+  - first:
+      213: -1142009256839579207
+    second: Teaser Text-Sheet_266
+  - first:
+      213: -5252902916377802094
+    second: Teaser Text-Sheet_267
+  - first:
+      213: -8097375931875519899
+    second: Teaser Text-Sheet_268
+  - first:
+      213: -5592407622962351695
+    second: Teaser Text-Sheet_269
+  - first:
+      213: -8301454366149293259
+    second: Teaser Text-Sheet_270
+  - first:
+      213: 1896211520319369664
+    second: Teaser Text-Sheet_271
+  - first:
+      213: -5132414943539349035
+    second: Teaser Text-Sheet_272
+  - first:
+      213: 619126858885075167
+    second: Teaser Text-Sheet_273
+  - first:
+      213: -7344739812531219549
+    second: Teaser Text-Sheet_274
+  - first:
+      213: -7012100758151927833
+    second: Teaser Text-Sheet_275
+  - first:
+      213: 6699144038818222247
+    second: Teaser Text-Sheet_276
+  - first:
+      213: -4393644634519600218
+    second: Teaser Text-Sheet_277
+  - first:
+      213: 1316821787550261934
+    second: Teaser Text-Sheet_278
+  - first:
+      213: 3891227265860630815
+    second: Teaser Text-Sheet_279
+  - first:
+      213: 7029212401409020578
+    second: Teaser Text-Sheet_280
+  - first:
+      213: 4813955136718054363
+    second: Teaser Text-Sheet_281
+  - first:
+      213: 4433817800104833545
+    second: Teaser Text-Sheet_282
+  - first:
+      213: -443660700150896523
+    second: Teaser Text-Sheet_283
+  - first:
+      213: -5904119884535626608
+    second: Teaser Text-Sheet_284
+  - first:
+      213: -9087212490298629
+    second: Teaser Text-Sheet_285
+  - first:
+      213: 8777326650075301229
+    second: Teaser Text-Sheet_286
+  - first:
+      213: 7216729342768701219
+    second: Teaser Text-Sheet_287
+  - first:
+      213: 2889496455342062340
+    second: Teaser Text-Sheet_288
+  - first:
+      213: -4509236836077596577
+    second: Teaser Text-Sheet_289
+  - first:
+      213: -3586329177626510187
+    second: Teaser Text-Sheet_290
+  - first:
+      213: -9181883744637916173
+    second: Teaser Text-Sheet_291
+  - first:
+      213: -7001093669479413057
+    second: Teaser Text-Sheet_292
+  - first:
+      213: 6094963149441018649
+    second: Teaser Text-Sheet_293
+  - first:
+      213: 1041700109598403490
+    second: Teaser Text-Sheet_294
+  - first:
+      213: 1836540780780728934
+    second: Teaser Text-Sheet_295
+  - first:
+      213: 4835343670467932825
+    second: Teaser Text-Sheet_296
+  - first:
+      213: 3948679472033073345
+    second: Teaser Text-Sheet_297
+  - first:
+      213: -7384983566781650056
+    second: Teaser Text-Sheet_298
+  - first:
+      213: -7428655794511165031
+    second: Teaser Text-Sheet_299
+  - first:
+      213: -1071973521690807943
+    second: Teaser Text-Sheet_300
+  - first:
+      213: -4367522745036366860
+    second: Teaser Text-Sheet_301
+  - first:
+      213: -8421916609458749941
+    second: Teaser Text-Sheet_302
+  - first:
+      213: 8060521556603637165
+    second: Teaser Text-Sheet_303
+  - first:
+      213: 5693174137875904157
+    second: Teaser Text-Sheet_304
+  - first:
+      213: -6223575862156281253
+    second: Teaser Text-Sheet_305
+  - first:
+      213: -3214003598371568743
+    second: Teaser Text-Sheet_306
+  - first:
+      213: -424367199908145566
+    second: Teaser Text-Sheet_307
+  - first:
+      213: 7094111706760982109
+    second: Teaser Text-Sheet_308
+  - first:
+      213: 6844210223275916445
+    second: Teaser Text-Sheet_309
+  - first:
+      213: 6619655402540813162
+    second: Teaser Text-Sheet_310
+  - first:
+      213: -5692625528943276309
+    second: Teaser Text-Sheet_311
+  - first:
+      213: 1565405457494739472
+    second: Teaser Text-Sheet_312
+  - first:
+      213: 6581267509069867030
+    second: Teaser Text-Sheet_313
+  - first:
+      213: -8480872752862838157
+    second: Teaser Text-Sheet_314
+  - first:
+      213: -8495652602971100785
+    second: Teaser Text-Sheet_315
+  - first:
+      213: 2584369149768183025
+    second: Teaser Text-Sheet_316
+  - first:
+      213: 8947026448922774963
+    second: Teaser Text-Sheet_317
+  - first:
+      213: 4879582959037961165
+    second: Teaser Text-Sheet_318
+  - first:
+      213: -2470090054147688967
+    second: Teaser Text-Sheet_319
+  - first:
+      213: -3061404731829804473
+    second: Teaser Text-Sheet_320
+  - first:
+      213: 6605103332384602822
+    second: Teaser Text-Sheet_321
+  - first:
+      213: -5321510191525294334
+    second: Teaser Text-Sheet_322
+  - first:
+      213: 2919460595495226216
+    second: Teaser Text-Sheet_323
+  - first:
+      213: -1820682182283021431
+    second: Teaser Text-Sheet_324
+  - first:
+      213: 4412908456096605534
+    second: Teaser Text-Sheet_325
+  - first:
+      213: -8407682317847173566
+    second: Teaser Text-Sheet_326
+  - first:
+      213: -3029326091672204812
+    second: Teaser Text-Sheet_327
+  - first:
+      213: -8938956454281209332
+    second: Teaser Text-Sheet_328
+  - first:
+      213: 5892276433337203944
+    second: Teaser Text-Sheet_329
+  - first:
+      213: -7321306226778496204
+    second: Teaser Text-Sheet_330
+  - first:
+      213: -3368351163740024619
+    second: Teaser Text-Sheet_331
+  - first:
+      213: -7006518217344737033
+    second: Teaser Text-Sheet_332
+  - first:
+      213: -2564514187903001389
+    second: Teaser Text-Sheet_333
+  - first:
+      213: 2006874865136496426
+    second: Teaser Text-Sheet_334
+  - first:
+      213: 5021502911081937387
+    second: Teaser Text-Sheet_335
+  - first:
+      213: 1826065009992656224
+    second: Teaser Text-Sheet_336
+  - first:
+      213: 2332186509910176761
+    second: Teaser Text-Sheet_337
+  - first:
+      213: -3022561775114623309
+    second: Teaser Text-Sheet_338
+  - first:
+      213: -3023464656163254864
+    second: Teaser Text-Sheet_339
+  - first:
+      213: 5090808186692509185
+    second: Teaser Text-Sheet_340
+  - first:
+      213: -927343941523511803
+    second: Teaser Text-Sheet_341
+  - first:
+      213: 2281350010558116897
+    second: Teaser Text-Sheet_342
+  - first:
+      213: -6212158551467643793
+    second: Teaser Text-Sheet_343
+  - first:
+      213: 6308565035963866404
+    second: Teaser Text-Sheet_344
+  - first:
+      213: -4340239329840452382
+    second: Teaser Text-Sheet_345
+  - first:
+      213: -1055201099028916786
+    second: Teaser Text-Sheet_346
+  - first:
+      213: 6237754078379594282
+    second: Teaser Text-Sheet_347
+  - first:
+      213: 3399997832688943937
+    second: Teaser Text-Sheet_348
+  - first:
+      213: 7510260207191184416
+    second: Teaser Text-Sheet_349
+  - first:
+      213: -515212520798840020
+    second: Teaser Text-Sheet_350
+  - first:
+      213: 5929600843848170408
+    second: Teaser Text-Sheet_351
+  - first:
+      213: -3900810880090240627
+    second: Teaser Text-Sheet_352
+  - first:
+      213: -8866247608077831530
+    second: Teaser Text-Sheet_353
+  - first:
+      213: 3059114536997723799
+    second: Teaser Text-Sheet_354
+  - first:
+      213: 408291746947982189
+    second: Teaser Text-Sheet_355
+  - first:
+      213: -4678096573409535597
+    second: Teaser Text-Sheet_356
+  - first:
+      213: -5181666239218646550
+    second: Teaser Text-Sheet_357
+  - first:
+      213: -1576162397355117902
+    second: Teaser Text-Sheet_358
+  - first:
+      213: -5054203060785032697
+    second: Teaser Text-Sheet_359
+  - first:
+      213: -123219700727556441
+    second: Teaser Text-Sheet_360
+  - first:
+      213: 1400590616620618853
+    second: Teaser Text-Sheet_361
+  - first:
+      213: -7888234436498916897
+    second: Teaser Text-Sheet_362
+  - first:
+      213: 3588151426897901852
+    second: Teaser Text-Sheet_363
+  - first:
+      213: 5113152466601040950
+    second: Teaser Text-Sheet_364
+  - first:
+      213: -5148766727463540340
+    second: Teaser Text-Sheet_365
+  - first:
+      213: -8040339163345840457
+    second: Teaser Text-Sheet_366
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5760
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025ab8c7f696bda50800000000000000
+      internalID: 6546942410864960800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5640
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcbee3b6cbc4b6b0800000000000000
+      internalID: -5281372408716018442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5520
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f62959a41bfe190800000000000000
+      internalID: -7930925484881055925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f435ca4af2870b40800000000000000
+      internalID: 5406433889189442806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5280
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d25cfd8b36373d0800000000000000
+      internalID: -3210112463705658019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5160
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b4b9ff017748890800000000000000
+      internalID: -7456704168127149221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5040
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8821eef2366d132d0800000000000000
+      internalID: -3300621330391625080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4920
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85d7abc0a98e7e90800000000000000
+      internalID: -7026027044946848370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7959ceee2ca85ede0800000000000000
+      internalID: -1304483947217119849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4680
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d187f1ce2824b7a80800000000000000
+      internalID: -8468101544265418723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a8f87cbff0b2350800000000000000
+      internalID: 5992901303205857945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4440
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1eea9b5022104b0800000000000000
+      internalID: -5476058263920385623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b08de445d0abc00800000000000000
+      internalID: 917060129874512787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a40893da16c72810800000000000000
+      internalID: 1740577599523390626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4080
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf8cc8486d9a3200800000000000000
+      internalID: 160613807948599244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3960
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32a0e4437d584530800000000000000
+      internalID: 3839421431991542331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e54215d7002c310800000000000000
+      internalID: 1423700970434747957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3720
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d7c36d13951ca20800000000000000
+      internalID: 3080841690680687926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0531f54636f912e50800000000000000
+      internalID: 6782877763031208784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3480
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba73cfc8b5ffd5080800000000000000
+      internalID: -9196914095348238421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3360
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85765b3a1f1d2190800000000000000
+      internalID: -7985692366732888689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b016b8b544a8c960800000000000000
+      internalID: 7622522988683202741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3120
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bae628078f0a6c0800000000000000
+      internalID: -4134031295817798780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560c6e03df0b50c00800000000000000
+      internalID: 866293104832331877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7648d8e945b8810c0800000000000000
+      internalID: -4604777423432743833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2760
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682090e1b5bc5df40800000000000000
+      internalID: 5752727691242046086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3239f012d85735120800000000000000
+      internalID: 2401392275324113699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17a04f216a6e6040800000000000000
+      internalID: 4642765231502698266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc2d7af8ff87bf20800000000000000
+      internalID: 3438375140037831890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c5d37ce238a55a0800000000000000
+      internalID: -6531764072613061495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98512e53e4fc30f60800000000000000
+      internalID: 7999465297958540681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21ac2d01db4ca2d0800000000000000
+      internalID: -3266152268509175508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eced4313d9d573d80800000000000000
+      internalID: -8271039260925829426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06ed0b8befd62ca0800000000000000
+      internalID: -6041895647327689203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1647920b3df11af20800000000000000
+      internalID: 3432059385087095905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780af81ec669d7a30800000000000000
+      internalID: 4214690220673572999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1ce3b041b48e920800000000000000
+      internalID: 3019746099612008929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f64327b7caa4260800000000000000
+      internalID: 7082663010190520215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505cf990538361ff0800000000000000
+      internalID: -65803344104405755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08efd56aa797da700800000000000000
+      internalID: 553231896920587904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e491f745f223700800000000000000
+      internalID: 518528947057151547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fea4bda2c274150800000000000000
+      internalID: 5856698402997989148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30656fcdf6eb3770800000000000000
+      internalID: 8591714691919994943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbb6ba053d836c70800000000000000
+      internalID: 8963162942349949893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29bab7e84c4d21b0800000000000000
+      internalID: -5679799679035197142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251a88a6203d7b030800000000000000
+      internalID: 3510506441889325394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84457d1a1fcdeb090800000000000000
+      internalID: -8016727356312431544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2966e2f413ddfe680800000000000000
+      internalID: -8723510749341784430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teaser Text-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1880
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bc3a5b8909ecfd0800000000000000
+      internalID: -2319757772492387553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 35f06c51be431be4389b4ee9b0fd005e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":49.0},"gridSpriteSize":{"x":1880.0,"y":120.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Teaser Text-Sheet_0: 6546942410864960800
+      Teaser Text-Sheet_1: -5281372408716018442
+      Teaser Text-Sheet_10: 5992901303205857945
+      Teaser Text-Sheet_11: -5476058263920385623
+      Teaser Text-Sheet_12: 917060129874512787
+      Teaser Text-Sheet_13: 1740577599523390626
+      Teaser Text-Sheet_14: 160613807948599244
+      Teaser Text-Sheet_15: 3839421431991542331
+      Teaser Text-Sheet_16: 1423700970434747957
+      Teaser Text-Sheet_17: 3080841690680687926
+      Teaser Text-Sheet_18: 6782877763031208784
+      Teaser Text-Sheet_19: -9196914095348238421
+      Teaser Text-Sheet_2: -7930925484881055925
+      Teaser Text-Sheet_20: -7985692366732888689
+      Teaser Text-Sheet_21: 7622522988683202741
+      Teaser Text-Sheet_22: -4134031295817798780
+      Teaser Text-Sheet_23: 866293104832331877
+      Teaser Text-Sheet_24: -4604777423432743833
+      Teaser Text-Sheet_25: 5752727691242046086
+      Teaser Text-Sheet_26: 2401392275324113699
+      Teaser Text-Sheet_27: 4642765231502698266
+      Teaser Text-Sheet_28: 3438375140037831890
+      Teaser Text-Sheet_29: -6531764072613061495
+      Teaser Text-Sheet_3: 5406433889189442806
+      Teaser Text-Sheet_30: 7999465297958540681
+      Teaser Text-Sheet_31: -3266152268509175508
+      Teaser Text-Sheet_32: -8271039260925829426
+      Teaser Text-Sheet_33: -6041895647327689203
+      Teaser Text-Sheet_34: 3432059385087095905
+      Teaser Text-Sheet_35: 4214690220673572999
+      Teaser Text-Sheet_36: 3019746099612008929
+      Teaser Text-Sheet_37: 7082663010190520215
+      Teaser Text-Sheet_38: -65803344104405755
+      Teaser Text-Sheet_39: 553231896920587904
+      Teaser Text-Sheet_4: -3210112463705658019
+      Teaser Text-Sheet_40: 518528947057151547
+      Teaser Text-Sheet_41: 5856698402997989148
+      Teaser Text-Sheet_42: 8591714691919994943
+      Teaser Text-Sheet_43: 8963162942349949893
+      Teaser Text-Sheet_44: -5679799679035197142
+      Teaser Text-Sheet_45: 3510506441889325394
+      Teaser Text-Sheet_46: -8016727356312431544
+      Teaser Text-Sheet_47: -8723510749341784430
+      Teaser Text-Sheet_48: -2319757772492387553
+      Teaser Text-Sheet_5: -7456704168127149221
+      Teaser Text-Sheet_6: -3300621330391625080
+      Teaser Text-Sheet_7: -7026027044946848370
+      Teaser Text-Sheet_8: -1304483947217119849
+      Teaser Text-Sheet_9: -8468101544265418723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
